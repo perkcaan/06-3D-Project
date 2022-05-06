@@ -1,6 +1,6 @@
-# 3D-Character
+# 3D-Project
 
-An animated 3D character that can be used in the 3D-RPG project
+A simple terrain with a simplecharacter with simple animations
 
 Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
 
@@ -10,4 +10,7 @@ Created in Blender 3.1.2 and Godot 3.4.2
 
 ## Created By
 
-Jason Francis
+Caleb Perkins
+
+## Project Grade Request
+Please grade this project and apply the point to a missing project, such as project 5
